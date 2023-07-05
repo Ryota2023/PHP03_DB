@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    padding-top: 10px;
+    height: 85px;
+    color: rgb(5, 59, 34);
+    background-color: rgb(150, 228, 177);
+    /* margin-top: 50px; */
+}
+
+h2{
+    padding-left: 60px;
+    flex-grow: 1;
+}
+h3{ 
+    text-align:right;
+    flex-grow: 2;
+    padding-right: 60px;
+}
+
+/* h3{
+    text-align: center;
+    padding-right: 100px;
+} */
+
+.field{
+    color: rgb(21, 95, 4);
+    font-weight: bold;
+}

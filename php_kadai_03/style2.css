@@ -1,0 +1,13 @@
+.gr{
+         display: flex;
+         justify-content: space-between;
+}
+
+img {
+    flex-grow: 1;
+    object-fit: cover;
+    height: 200px;
+    max-width: 400px;
+    margin: 0.2rem;
+    border-radius: 4px;
+  }
